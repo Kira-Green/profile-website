@@ -1,0 +1,13 @@
+.section {
+}
+
+.sectiondark {
+  background: #333;
+  color: white;
+}
+
+.sectioncontent {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
